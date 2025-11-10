@@ -66,7 +66,6 @@
     },
     "custom-ui-style.font.sansSerif": "Source Code Pro Light",
     "editor.fontFamily": "Dank Mono",
-    // "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 15,
     "editor.tokenColorCustomizations": {
     "textMateRules": [
