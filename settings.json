@@ -1,0 +1,97 @@
+{
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "explorer.confirmDelete": false,
+    "background.windowBackgrounds": [
+        "/Users/kirillstarcev/Downloads/77a5052963e9a23367b087720d8021f0.png"
+    ],
+    "[c]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "github.copilot.enable": {
+        "*": false
+    },
+    "workbench.colorTheme": "One Monokai 80s",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.wordWrap": "on",
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.showTabs": "single",
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 12,
+    "explorer.compactFolders": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.decorations.badges": false,
+    "explorer.decorations.colors": false,
+    "custom-ui-style.electron": {
+        "titleBarStyle": "hiddenInset",
+        "trafficLightPosition": {
+            "x": 20,
+            "y": 16
+        }
+    },
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    "custom-ui-style.stylesheet": {
+       ".monaco-workbench .part.editor > .content .editor-group-container > .title > .label-container > .title-label": "padding-left: 70px",
+    ".notification-toast": "box-shadow: none !important",
+    ".quick-input-widget.show-file-icons": "box-shadow: none !important",
+    ".quick-input-widget": "top: 25vh !important",
+    ".quick-input-list .scrollbar": "display: none",
+    ".monaco-action-bar.quick-input-inline-action-bar": "display: none",
+    ".editor-widget.find-widget": "box-shadow: none; border-radius: 4px",
+    ".quick-input-titlebar": "background: #100B15 !important",
+    ".monaco-workbench .part.editor > .content .editor-group-container > .title.title-border-bottom:after": "display: none",
+    ".monaco-scrollable-element > .shadow.top": "display: none",
+    ".sidebar .title-label": "padding: 0 !important",
+    ".sidebar": "border: none !important",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "outline: none !important",
+    ".monaco-list-row.focused": "outline: none !important",
+    ".monaco-editor .scroll-decoration": "display: none",
+    ".title-actions": "display: none !important",
+    ".title .monaco-icon-label:after": "margin-right: 0"
+    },
+    "custom-ui-style.font.sansSerif": "Source Code Pro Light",
+    "editor.fontFamily": "Dank Mono",
+    // "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 15,
+    "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+    },
+    "editor.lightbulb.enabled": "off",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "scm.diffDecorations": "none",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.showFoldingControls": "never",
+    "editor.guides.indentation": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "extensions.ignoreRecommendations": true,
+    "editor.stickyScroll.enabled": false,
+    "editor.fontLigatures": false,
+    "cmake.showConfigureWithDebuggerNotification": false,
+    "terminal.integrated.stickyScroll.enabled": false
+}
